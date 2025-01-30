@@ -1,0 +1,15 @@
+# Site settings
+title: "Anthony Lopez's Portfolio"
+email: anthonylopez0097@gmail.com
+description: "A data analyst portfolio showcasing projects and skills."
+baseurl: "/my-portfolio"  # Since the site will be hosted under the /my-portfolio path
+url: "https://anthonylopez1109.github.io"  # Your GitHub Pages URL
+
+# Social media links
+linkedin: "https://www.linkedin.com/in/anthony-lopez-b3407a239/"
+github_username: "anthonylopez1109"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
