@@ -9,6 +9,6 @@ Examined trading volumes and volatility changes for Apple and Samsung.
 Compared stock performance against the broader technology sector.
 Gained insights on business model resilience and recovery strategies.
 
-Data Sources:
+- Data Sources:
 - Yahoo Finance
 - Statista my_plot1
