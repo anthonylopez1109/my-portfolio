@@ -13,8 +13,8 @@ This project explores the stock performance of Apple and Samsung during the Covi
 - Gained insights on business model resilience and recovery strategies.
 
 # Data Sources:
-Yahoo Finance
-Statista
+- Yahoo Finance
+- Statista
 # Add Statista my_plot1
 
 
