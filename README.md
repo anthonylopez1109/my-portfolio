@@ -1,5 +1,5 @@
 # my-portfolio
-# [Project Title: Stock Analysis of the American Phone Market (Apple vs. Samsung during the Covid-19 Pandemic)](https://github.com/Jeniquef/stock-Analysis_t2)
+# [Project 1: Stock Analysis of the American Phone Market (Apple vs. Samsung during the Covid-19 Pandemic)](https://github.com/Jeniquef/stock-Analysis_t2)
 
 # Overview:
 This project explores the stock performance of Apple and Samsung during the Covid-19 pandemic, comparing their resilience to other tech companies in the market. It aims to understand how external factors, such as lockdowns and supply chain disruptions, influenced stock prices and investor sentiment.
@@ -16,33 +16,25 @@ This project explores the stock performance of Apple and Samsung during the Covi
 - Statista
 # Add Statista my_plot1
 
+# [Project 2: Crowdfunding ETL Project](https://github.com/DanOMearaWD/Crowdfunding_ETL)
+
+# Overview:
+This project involved building an ETL pipeline using Python, Pandas, and PostgreSQL to extract, clean, and load data from a crowdfunding platform. The goal was to structure the raw data into a well-organized database for analysis and integration.
+
+# Key Insights:
+-Data Structuring: Successfully cleaned and transformed unstructured crowdfunding data into structured CSV files.
+-Category & Subcategory Creation: Extracted 9 unique categories and 24 subcategories, enabling better organization of campaigns.
+-Database Design: Designed a PostgreSQL database schema based on an Entity Relationship Diagram (ERD) to ensure efficient data relationships.
+-Contact Data Parsing: Cleaned and structured contact information using regular expressions and Python’s JSON module.
+
+# Data Sources:
+crowdfunding.xlsx: Crowdfunding campaign data.
+contacts.xlsx: Contact information for users associated with campaigns.
+
+Add Image:
+(You can include the ERD diagram image here or a relevant screenshot of the data flow or pipeline.)
 
 
-
-
-### 👋 About Me
-
-Hello! My name is **Anthony Lopez**, and I’m an aspiring **Data Analyst** eager to apply my skills in transforming raw data into actionable insights. With a **Bachelor's degree in Business Management**, I have a strong understanding of **business operations** and **strategy**, which complements my newly acquired **data analysis** expertise. 
-
-🔍 **What I Do:**
-- **Data Manipulation**: Cleaning and transforming raw data into actionable insights using tools like **Pandas** and **SQL**.
-- **Data Visualization**: Building interactive dashboards and visualizations with **Plotly**, **Dash**, and **Matplotlib**.
-- **Machine Learning**: Developing predictive models to uncover trends and patterns in data.
-- **ETL Pipelines**: Extracting, transforming, and loading data for various business applications.
-
-💡 **Why I'm Excited:**
-I am passionate about applying my skills to solve real-world problems and make data-driven decisions that contribute to business growth. My background in **Business Management** allows me to approach data analysis with a strategic perspective, offering a well-rounded approach to problem-solving.
-
-🌱 **My Goal:**
-I’m currently looking for my **first Data Analyst role** and am open to various opportunities that allow me to grow, learn, and make a positive impact in the field of data science.
-
-## 📋 Table of Contents
-
-- [Project 1: Stock Analysis of the American Phone Market](#[project-1-stock-analysis-of-the-american-phone-market](https://github.com/Jeniquef/stock-Analysis_t2))
-- [Project 2: Crowdfunding ETL Pipeline](#project-2-crowdfunding-etl-pipeline)
-- [Project 3: Flu Trends Analysis and Visualization](#project-3-flu-trends-analysis-and-visualization)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
 
 ---
 
