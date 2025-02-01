@@ -16,6 +16,8 @@ This project explores the stock performance of Apple and Samsung during the Covi
 - Statista
 # Add Statista my_plot1
 
+**Files**: [Stock Analysis of the American Phone Market](https://github.com/Jeniquef/stock-Analysis_t2/blob/main/statistic_id620805_quarterly-market-share-of-smartphone-vendors-in-the-us-2016-2024.csv)
+
 # [Project 2: Crowdfunding ETL Project](https://github.com/DanOMearaWD/Crowdfunding_ETL)
 
 # Overview:
