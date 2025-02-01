@@ -1,42 +1,17 @@
 # my-portfolio
-# Project 1
+# [Project 1: Project Title: Stock Analysis about American phone market](https://github.com/Jeniquef/stock-Analysis_t2)
 
-![anne-nygard-tcJ6sJTtTWI-unsplash](https://github.com/user-attachments/assets/97b19cc5-77df-4a02-9a41-f6f815d2c078)
-**Project Title: Stock Analysis about American phone market**
+Overview:
+This project explores the stock performance of Apple and Samsung during the Covid-19 pandemic, comparing their resilience to other tech companies in the market. It aims to understand how external factors, such as lockdowns and supply chain disruptions, influenced stock prices and investor sentiment.
 
-
-Team Members:
-1.	Iram Anwar
-2.	Anthony Lopez
-3.	Jenique Fahie
-4.	Madhuri Vinay
-
-For our first group project of this Data Science Bootcamp, we chose to analyze Apple and Samsung stock performance during the Covid-19 pandemic and its comparison with other tech companies. This analysis is important as it helps to:
-
-•	Understand market resilience under stress
-
-•	Identify how these companies adjusted to challenges such as supply chain disruptions, lockdowns and consumer behaviour.
-
-•	Reveal how investor sentiment evolved with changes in economic conditions, public health measures, and financial stimulus.
-
-•	Provide insights into their business models.
-
-•	Understand the recovery strategies.
-
-**Data Source:**
-
+Key Insights:
+Analyzed stock trends before, during, and after the pandemic.
+Examined trading volumes and volatility changes for Apple and Samsung.
+Compared stock performance against the broader technology sector.
+Gained insights on business model resilience and recovery strategies.
+Data Sources:
 Yahoo Finance
-
-Statista.com
-
-
-
-**Research Questions:**
-1.	How did Apple and Samsung’s stock prices trend before, during and after the Covid-19 pandemic?
-2.	Did the trading volume of Apple and Samsung increase or decrease during the pandemic?
-3.	How long did it take for apple and Samsung to reach to pre pandemic levels?
-4.	How did Apple and Samsung perform compared to the overall technology sector during the pandemic?
-5.	Was there an increase in stock price volatility for Apple and Samsung during the pandemic compared to pre – Covid period?
-6.	Which phone company performed best before, during and after the pandemic?
-
+Statista my_plot1
+Stock Performance Graph:
+The graph above visualizes the stock price trends of Apple and Samsung before, during, and after the Covid-19 pandemic. As seen in the chart, both companies experienced significant volatility, with a sharp decline in stock prices at the start of the pandemic. Apple’s stock recovered faster than Samsung’s, demonstrating resilience in comparison to its competitor. This trend reflects market sentiment and the companies’ ability to adapt during global disruptions.
 
