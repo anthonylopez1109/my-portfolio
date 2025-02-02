@@ -9,13 +9,10 @@ Hello, I'm **Anthony Lopez**, an aspiring **Data Analyst**. This portfolio showc
 
 ## My Projects
 
-- [Stock Analysis of the American Phone Market](https://github.com/anthonylopez1109/stock-Analysis_t2)
+- [Stock Analysis of the American Phone Market](https://github.com/Jeniquef/stock-Analysis_t2)
 - [Crowdfunding ETL Pipeline](https://github.com/DanOMearaWD/Crowdfunding_ETL)
 - [Flu Trends Analysis and Visualization](#)
 
-### About Me
-
-I am passionate about transforming raw data into actionable insights. With a background in **Business Management** and newly acquired data analysis skills, I aim to contribute to business growth through data-driven decisions.
 
 ---
 
