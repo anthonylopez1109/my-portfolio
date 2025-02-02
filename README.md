@@ -1,5 +1,5 @@
 # my-portfolio
-## [📈Project 1: Stock Analysis of the American Phone Market (Apple vs. Samsung during the Covid-19 Pandemic)](https://github.com/Jeniquef/stock-Analysis_t2)
+## [📈 Project 1: Stock Analysis of the American Phone Market (Apple vs. Samsung during the Covid-19 Pandemic)](https://github.com/Jeniquef/stock-Analysis_t2)
 
 # Overview:
 This project explores the stock performance of Apple and Samsung during the Covid-19 pandemic, comparing their resilience to other tech companies in the market. It aims to understand how external factors, such as lockdowns and supply chain disruptions, influenced stock prices and investor sentiment.
@@ -17,7 +17,7 @@ This project explores the stock performance of Apple and Samsung during the Covi
 # Add Statista my_plot1
 
 
-# [Project 2: Crowdfunding ETL Project](https://github.com/DanOMearaWD/Crowdfunding_ETL)
+## [🔄 Project 2: Crowdfunding ETL Project](https://github.com/DanOMearaWD/Crowdfunding_ETL)
 
 # Overview:
 This project involved building an ETL pipeline using Python, Pandas, and PostgreSQL to extract, clean, and load data from a crowdfunding platform. The goal was to structure the raw data into a well-organized database for analysis and integration.
